@@ -1,3 +1,4 @@
 # BlueCompany
 
-https://baqlcaliev.github.io/BlueCompany/
+https://baqlcaliev.github.io/BlueCompany/Home.html
+
